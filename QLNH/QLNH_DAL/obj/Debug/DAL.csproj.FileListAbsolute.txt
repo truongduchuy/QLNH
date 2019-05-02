@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\bin\Debug\QLNH_DAL.dll
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\bin\Debug\QLNH_DAL.pdb
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\obj\Debug\QLNH_DAL.dll
+C:\Users\Administrator\source\repos\QLNH\QLNH_DAL\obj\Debug\QLNH_DAL.pdb

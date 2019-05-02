@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\bin\Debug\QLNH_DAL.dll
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\bin\Debug\QLNH_DAL.pdb
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Administrator\source\repos\QLNH\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

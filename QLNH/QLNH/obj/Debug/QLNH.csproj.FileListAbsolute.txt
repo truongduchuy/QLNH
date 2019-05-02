@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\QLNH\QLNH\bin\Debug\QLNH.exe.config
+C:\Users\Administrator\source\repos\QLNH\QLNH\bin\Debug\QLNH.exe
+C:\Users\Administrator\source\repos\QLNH\QLNH\bin\Debug\QLNH.pdb
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.Form1.resources
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.exe
+C:\Users\Administrator\source\repos\QLNH\QLNH\obj\Debug\QLNH.pdb
